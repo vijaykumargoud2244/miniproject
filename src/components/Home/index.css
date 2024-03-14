@@ -1,0 +1,306 @@
+.bg-container {
+  width: 1440px;
+  height: 1024px;
+  background: #0f172a;
+  padding: 0px;
+}
+.frame {
+  width: Hug (522px);
+  height: Hug (56px);
+  padding-top: 156px;
+  padding-left: 389px;
+}
+.frame1 {
+  width: 458px;
+  height: 56px;
+  padding: 12px, 187px, 12px, 24px;
+  border-radius: 4px, 0px, 0px, 4px;
+  background: #1d2537;
+  color: #ffffff;
+  font-size: 24px;
+}
+::placeholder {
+  width: 247px;
+  height: 32px;
+  top: 12px;
+  left: 24px;
+  font-family: HK Grotesk;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #94a3b8;
+}
+.frame2 {
+  width: Hug (64px);
+  height: Fixed (56px);
+  padding: 13px;
+  padding-top: 4px;
+  padding-bottom: 16px;
+  border-radius: 0px, 4px, 4px, 0px;
+  gap: 10px;
+  background: #4f4e4c;
+  text-align: center;
+}
+.search-icon {
+  width: 24px;
+  height: 30px;
+  padding: 2px;
+  padding-top: 2px;
+  padding-left: 2px;
+  color: #ffffff;
+}
+.viewState {
+  width: Hug (538px);
+  height: Hug (513px);
+  padding-top: 20px;
+  text-align: center;
+  gap: 32px;
+}
+.img1 {
+  height: 400px;
+  width: 480px;
+}
+.h2 {
+  height: 64px;
+  font-family: HK Grotesk;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: 0em;
+  color: #f8fafc;
+}
+.p1 {
+  width: 173px;
+  height: 16px;
+  font-family: 'HK Grotesk';
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #dc2626;
+}
+.btn-container {
+  padding-top: 50px;
+}
+.btn {
+  width: 106px;
+  height: 48px;
+  padding: 10px;
+  border-radius: 12px;
+  gap: 8px;
+  border-width: 0px;
+  background: #3b82f6;
+}
+.success-container {
+  width: Hug (682px);
+  height: Hug (635px);
+  top: 292px;
+  left: 379px;
+  gap: 48px;
+}
+
+.rectangle3 {
+  width: 187px;
+  height: 187px;
+  border-radius: 161px;
+  border: 2px;
+  color: #e2e2e2;
+  border: 2px solid #e2e2e2;
+}
+.frame101 {
+  width: Hug(682px);
+  height: Hug (635px);
+  top: 292px;
+  left: 379px;
+  gap: 48px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  padding-top: 30px;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+.user-login {
+  font-family: HK Grotesk;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 63px;
+  letter-spacing: 0em;
+  color: #f8fafc;
+  height: 63px;
+  padding-top: 10px;
+}
+.user-name {
+  font-family: HK Grotesk;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: 0em;
+  color: #f8fafc;
+  padding-top: 10px;
+}
+.user-bio {
+  height: 64px;
+  font-family: HK Grotesk;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0px;
+  color: #f8fafc;
+  padding-top: 10px;
+  padding: 10px;
+}
+.line {
+  padding: 0px;
+  height: 88px;
+  border: 1px;
+  color: #64748b;
+  border: 1px solid #64748b;
+}
+
+.a {
+  padding: 40px;
+  padding-top: 10px;
+}
+.frame102 {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  width: Hug (601px);
+  height: Hug (70px);
+  gap: 48px;
+}
+.frame103 {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  width: Hug (601px);
+  height: Hug (70px);
+  gap: 48px;
+}
+.b {
+  margin-right: 40px;
+  margin-top: 0px;
+}
+.c {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.follow-text {
+  text-align: center;
+  width: 114px;
+  height: 32px;
+  top: 7.5px;
+  font-family: HK Grotesk;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0em;
+  color: #3b82f6;
+}
+.follow {
+  width: 88px;
+  height: 24px;
+  top: 43.5px;
+  left: 13px;
+  font-family: HK Grotesk;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  text-align: right;
+  color: #f8fafc;
+  padding-left: 10px;
+}
+
+.p3 {
+  width: 79px;
+  height: 26px;
+  left: 490px;
+  font-family: HK Grotesk;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0.20000000298023224px;
+  color: #3b82f6;
+  padding-left: 20px;
+}
+.p4 {
+  width: 120px;
+  height: 26px;
+  left: 213px;
+  font-family: HK Grotesk;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0.20000000298023224px;
+  color: #3b82f6;
+  margin-left: 100px;
+}
+.p5 {
+  width: 87px;
+  height: 26px;
+  left: 1px;
+  font-family: HK Grotesk;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0.20000000298023224px;
+  color: #3b82f6;
+  padding-left: 20px;
+}
+.p-5 {
+  height: 32px;
+  top: 38px;
+  left: 32px;
+  font-family: HK Grotesk;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.11999999731779099px;
+  color: #f8fafc;
+  padding-left: 8px;
+}
+.p-4 {
+  height: 32px;
+  top: 38px;
+  left: 168px;
+  font-family: HK Grotesk;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.11999999731779099px;
+  color: #f8fafc;
+  padding-left: 8px;
+}
+.p-3 {
+  height: 32px;
+  top: 38px;
+  left: 489px;
+  font-family: HK Grotesk;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.11999999731779099px;
+  color: #f8fafc;
+  padding-left: 8px;
+}
+.icon3 {
+  width: 24px;
+  height: 24px;
+  margin-top: 22px;
+  left: 457px;
+  color: #f8fafc;
+}
+.icon2 {
+  width: 24px;
+  height: 24px;
+  margin-top: 22px;
+  left: 136px;
+  color: #f8fafc;
+}
